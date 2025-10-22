@@ -36,9 +36,9 @@ namespace EditorHtml
                                 (words[i].LastIndexOf('<') - 1) -
                                  words[i].IndexOf('>')
                             )
-                        )
+                        ) 
 
-                    );
+                    ); 
                     Console.WriteLine(" ");
                 }
                 else
